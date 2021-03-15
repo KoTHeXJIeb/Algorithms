@@ -8,6 +8,10 @@ __pycache__/
 
 # Visual Studio 
 /.vs
+CppProperties.json
+
+# Visual Studio Code
+/.vscode
 
 # Distribution / packaging
 .Python
