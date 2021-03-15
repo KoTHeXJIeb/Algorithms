@@ -24,7 +24,8 @@ int main() {
 void binarySearch(int* array, int number) {
 	// All stuff going here
 	
-	int len = array.lenght();
+	int len = sizeOf(array);
+	cout << len;
 
 
 }
