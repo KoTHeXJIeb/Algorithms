@@ -4,6 +4,8 @@
 Binary Search algorithm (C++)
 By CatProgrammerYT
 
+Early Access! This is not final version of the file!
+
 */
 #include<iostream>
 
@@ -25,8 +27,8 @@ int main() {
 void binarySearch(int* array, int number) {
 	// All stuff going here
 	
-	int len = main();
-	cout << len;
+	//int len = main();
+	//cout << len;
 
 }
 
