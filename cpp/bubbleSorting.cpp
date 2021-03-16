@@ -14,19 +14,19 @@ int n;
 
 int main() {
 
+	cout << "File execution started...";
 	cout << "Enter the number, you are searching for: " << endl;
 	cin >> n;
 	
 	binarySearch(&numarray[15], n);
-	return 0;
+	return 1;
 }
 
 void binarySearch(int* array, int number) {
 	// All stuff going here
 	
-	int len = sizeOf(array);
+	int len = main();
 	cout << len;
-
 
 }
 
