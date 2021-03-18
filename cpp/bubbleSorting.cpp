@@ -1,34 +1,44 @@
 
 /*
 
-Binary Search algorithm (C++)
+Bubble Sorting algorithm (C++)
 By CatProgrammerYT
 
 Early Access! This is not final version of the file!
 
 */
+
 #include<iostream>
+#include <cstdint>
+#include <stdint.h>
 
 using namespace std;
 
-int numarray[15] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
-int n;
+int* binarySearch(int* array) {
+	// All stuff going here
+	for(int i = 0; i < sizeof(array); i++) {
+		for(int j = 0; j < sizeof(array)-1; i++) {
+			if (array[j+1] > array[j]) {
+				int temp;
+				temp = array[j];
+				array[j] = array[j+1];
+				array[j+1] = temp;
+				return array;
+			}
+		}
+	}
+}
 
 int main() {
 
-	cout << "File execution started...";
-	cout << "Enter the number, you are searching for: " << endl;
-	cin >> n;
-	
-	binarySearch(&numarray[15], n);
+	int numarray[15] = {12,3125,12,52,16,12,67,327,17,13};
+
+	int* sortedArray[15] = {binarySearch(&numarray[15])};
+	for(int j = 0; j < sizeof(sortedArray); i++) {
+		sortedarray = sortedarray[j];
+	int sortedarray[15] = { &sortedArray[15] };
+	for(int i = 0; i < sizeof(sortedarray); i++) {
+		cout << i;
+	}
 	return 1;
 }
-
-void binarySearch(int* array, int number) {
-	// All stuff going here
-	
-	//int len = main();
-	//cout << len;
-
-}
-
