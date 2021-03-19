@@ -13,10 +13,12 @@ using System.Collections.Generic;
 
 namespace BinarySearch
 {
-    public class BinarySearch() {
+    public static class Program {
+        static void Main(string[] args) {
+                
+                bool isFound;
+                int[] array = {};
 
-            static void Main(string[] args) {
-
-            }
+        }
     }
 }
