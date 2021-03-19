@@ -1,3 +1,13 @@
+
+/*
+
+Binary Search algorithm (C#)
+By CatProgrammerYT
+
+This is an early build of the final file!
+
+*/
+
 using System;
 using System.Collections.Generic;
 
