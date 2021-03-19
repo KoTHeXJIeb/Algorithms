@@ -4,7 +4,7 @@
 Binary Search algorithm (JavaScript)
 By CatProgrammerYT
 
-This is early build of the final file!
+This is an early build of the final file!
 
 */
 
