@@ -14,7 +14,7 @@ array = [
 # Getting the number, which user are looking for
 n = int(input('Search for the number (1-50): '))
 
-def binarySearch(array, n):
+def  binarySearch(array, n):
     array.sort()                                            
     l = 0
     r = len(array)  - 1 
