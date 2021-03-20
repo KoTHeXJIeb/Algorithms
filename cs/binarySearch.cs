@@ -19,6 +19,8 @@ namespace BinarySearch
                 bool isFound;
                 int[] array = {};
 
+                Console.WriteLine("Hello World!");
+
         }
     }
 }
