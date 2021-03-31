@@ -18,6 +18,7 @@ CppProperties.json
 /.vscode
 /.vs
 
+
 # Distribution / packaging
 .Python
 build/
