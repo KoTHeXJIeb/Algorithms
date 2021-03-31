@@ -16,10 +16,7 @@ namespace BinarySearch
     public static class Program {
         static void Main(string[] args) {
                 
-                bool isFound;
-                int[] array = {};
-
-                Console.WriteLine("Hello World!");
+                
 
         }
     }
