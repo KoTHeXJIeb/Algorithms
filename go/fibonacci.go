@@ -9,7 +9,7 @@ func main() {
 	for i := 0; i < len(firstNums); i++ {
 		// Adding previous and second number and appending them to the list
 		firstNums = append(firstNums, firstNums[i]+firstNums[i+1])
-		// To make it clearer to see list, I make list size max of 10
+		// To make it clearer to see the list, I made the list size max of 10
 		if len(firstNums) > 10 {
 			break
 		}
