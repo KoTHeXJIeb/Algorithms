@@ -1,4 +1,4 @@
 ## Algoritms
-# Different algoritms written on different programming languages
+ Different algoritms written on different programming languages
 ## Programming Languages
-# C++, C#, Golang, JavaScript, Python
+ C++, C#, Golang, JavaScript, Python
