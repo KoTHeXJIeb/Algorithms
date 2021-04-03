@@ -14,5 +14,4 @@ func main() {
 			break
 		}
 	}
-	fmt.Println(firstNums)
 }

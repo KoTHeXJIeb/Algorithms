@@ -1,2 +1,4 @@
-# Algorithms
-This repository contains differents algorithms on different programming languages.
+## Algoritms
+# Different algoritms written on different programming languages
+## Programming Languages
+# C++, C#, Golang, JavaScript, Python
