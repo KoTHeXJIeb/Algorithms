@@ -1,6 +1,11 @@
-package main
+/*
 
-import "fmt"
+Fibonacci Number Algorithm (Golang)
+By CatProgrammerYT
+
+*/
+
+package main
 
 func main() {
 

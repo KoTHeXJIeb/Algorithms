@@ -6,6 +6,8 @@ __pycache__/
 /build
 /CMakeLists.txt
 
+.swp
+
 # C extensions
 *.so
 
@@ -17,6 +19,8 @@ CppProperties.json
 # Visual Studio Code
 /.vscode
 /.vs
+.vs
+.vs/
 
 
 # Distribution / packaging
